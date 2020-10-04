@@ -5,5 +5,7 @@ module.exports = {
         extensions: ['tsx', 'jsx', 'js', 'ts', 'vue']
       }
     };
-  }
+  },
+
+  lintOnSave: false
 };
